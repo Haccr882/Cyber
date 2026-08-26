@@ -1,39 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/index.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/about.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/contact.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/privacy.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/terms.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/disclaimer.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/what-is-cybersecurity.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/how-the-internet-works.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/ip-addresses.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/dns-explained.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/http-vs-https.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/encryption.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/symmetric-asymmetric-encryption.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/firewalls.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/malware.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/virus-worm-trojan.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/phishing.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/social-engineering.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/password-security.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/multi-factor-authentication.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/vpn.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/cookies.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/data-breaches.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/common-mistakes.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/public-wifi.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/safe-browsing.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/operating-systems.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/cpu-security.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/ram-vs-storage.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/stack-vs-heap.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/pointers.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/compilers.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/apis.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/git-security.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/cloud-security.html</loc></url>
-<url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/articles/how-websites-work.html</loc></url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/about.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/contact.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/privacy.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/terms.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/disclaimer.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/what-is-cybersecurity.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/how-the-internet-works.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/ip-addresses.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/dns-explained.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/http-vs-https.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/encryption.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/symmetric-asymmetric-encryption.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/firewalls.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/malware.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/virus-worm-trojan.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/phishing.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/social-engineering.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/password-security.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/multi-factor-authentication.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/vpn.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/cookies.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/data-breaches.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/common-mistakes.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/public-wifi.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/safe-browsing.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/operating-systems.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/cpu-security.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/ram-vs-storage.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/stack-vs-heap.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/pointers.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/compilers.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/apis.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/git-security.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/cloud-security.html</loc>
+  </url>
+
+  <url>
+    <loc>https://cyber-nu-blush.vercel.app/articles/how-websites-work.html</loc>
+  </url>
+
 </urlset>
