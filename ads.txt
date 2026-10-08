@@ -1,5 +1,4 @@
 # Add the exact ads.txt line supplied by your advertising provider after approval.
-
-
-
 google.com, pub-2669340767365448, DIRECT, f08c47fec0942fa0
+
+
